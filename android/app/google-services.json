@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881816105813",
+    "project_id": "fir-51465",
+    "storage_bucket": "fir-51465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881816105813:android:f9d816bacf2969c5fc75dc",
+        "android_client_info": {
+          "package_name": "com.rozin.walton_video_conference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881816105813-0cj63dg0d1uusthi34f2n511minocqte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rozin.walton_video_conference",
+            "certificate_hash": "c300ffc92b67f1dc96f4c497cfdc0780d75fc5e0"
+          }
+        },
+        {
+          "client_id": "881816105813-q209frnbu8ef0dnppvl3pgvakda3mvpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVWY0qgHUASFuQLzSsln4rZ9tr5WGMPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881816105813-q209frnbu8ef0dnppvl3pgvakda3mvpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
